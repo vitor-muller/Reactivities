@@ -482,3 +482,30 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+
+Assets/CourseAssets/images/logo.png
+Assets/CourseAssets/images/placeholder.png
+Assets/CourseAssets/images/user.png
+Assets/CourseAssets/images/categoryImages/culture.jpg
+Assets/CourseAssets/images/categoryImages/drinks.jpg
+Assets/CourseAssets/images/categoryImages/film.jpg
+Assets/CourseAssets/images/categoryImages/food.jpg
+Assets/CourseAssets/images/categoryImages/music.jpg
+Assets/CourseAssets/images/categoryImages/travel.jpg
+Assets/CourseAssets/section 18 challenge/Instructions.pdf
+Assets/CourseAssets/section 18 challenge/Solution.pdf
+Assets/CourseAssets/section 21 challenge/Instructions.pdf
+.gitignore
+Assets/CourseAssets/snippets/ActivityDetailsSnippets.txt
+Assets/CourseAssets/snippets/SeedData.txt
+Assets/CourseAssets/snippets/SeedData with attendees.txt
+Assets/CourseAssets/snippets/ErrorSnippets.txt
+client/eslint.config.js
+API/Reactivities.db
+Application/Class1.cs
+Assets/CourseAssets.zip
+Assets/CourseAssets/Reactivities.postman_collection.json
+Assets/CourseAssets/section 21 challenge/Solution.pdf
+client/public/vite.svg
+client/src/assets/react.svg
